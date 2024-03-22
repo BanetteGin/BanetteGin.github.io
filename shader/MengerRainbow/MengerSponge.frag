@@ -8,7 +8,7 @@ const float PI = acos(-1.);
 const float TAU = 2. * PI;
 const float EPS = 1e-4;
 
-const int STEP = 256;
+const int STEP = 128;
 
 const int oct = 16;
 
