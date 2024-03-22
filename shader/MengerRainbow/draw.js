@@ -6,7 +6,7 @@ function preload() {
 
 function setup() {
     createCanvas(windowWidth, windowHeight, WEBGL);
-    pixelDensity(0.4);
+    pixelDensity(0.5);
     noStroke();
 }
 function draw() {
